@@ -17,6 +17,6 @@
         "jsx": "react-jsx",
         "baseUrl": "oops"
     },
-    "include": ["oops"],
+    "include": ["src"],
     "exclude": ["node_modules"]
 }
